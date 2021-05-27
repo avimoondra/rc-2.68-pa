@@ -1,0 +1,22 @@
+id: text1
+type: widget
+subtype: TextWidget2
+template:
+  ordered:
+    - heightType: auto
+    - horizontalAlign: left
+    - hidden: false
+    - imageWidth: fit
+    - verticalAlign: center
+    - tooltipText: ''
+    - value: 👋 **Hello {{query2.data.message}}!**
+    - disableMarkdown: false
+    - overflowType: scroll
+style:
+  ordered: []
+position2:
+  position2:
+    col: 4
+    height: 1
+    width: 3
+createdAt: 2021-05-27T22:45:53.146Z
